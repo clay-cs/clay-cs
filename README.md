@@ -1,26 +1,27 @@
-<h1 align="center">Assalomu alaykum, men Full Stack Developer 👋</h1>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Full Stack Developer &amp; Ethical Hacker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Backend+Developer;Frontend+Developer+%7C+Mobile+Developer;Unity+%2F+C%23+Dasturchi;Har+doim+yangi+narsalarni+o%CA%BBrganishga+tayyorman!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Backend+Developer;Frontend+Developer+%7C+Mobile+Developer;Unity+%2F+C%23+Game+Developer;Always+ready+to+learn+new+technologies%21" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 Men haqimda
+### 👨‍💻 About Me
 
-- 🔐 **Ethical Hacker** — xavfsizlik va penetration testing bilan qiziqaman
-- 🖥️ **Backend Developer** — server tomonidagi dasturlash
-- 🎨 **Frontend Developer** — zamonaviy va chiroyli interfeyslar
-- 📱 **Mobile Developer** — mobil ilovalar yaratish
-- 🎮 **Unity / C# dasturchi** — o'yin dasturlash bilan shug'ullanaman
-- 🌱 Doimiy ravishda yangi texnologiyalarni o'rganishni davom ettiraman
-- 💬 Savol bo'lsa — bemalol murojaat qiling!
+- 🔐 **Ethical Hacker** — passionate about security research and penetration testing
+- 🖥️ **Backend Developer** — building robust, scalable server-side systems
+- 🎨 **Frontend Developer** — crafting modern, responsive user interfaces
+- 📱 **Mobile Developer** — developing cross-platform mobile applications
+- 🎮 **Unity / C# Developer** — creating interactive games and experiences
+- 🌱 Continuously exploring new technologies and expanding my skill set
+- 💬 Always open to collaboration — feel free to reach out!
 
 ---
 
-### 🛠️ Texnologiyalar va Vositalar
+### 🛠️ Tech Stack
 
-**Backend:**
+**Backend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-**Frontend:**
+**Frontend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +43,7 @@
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
-**Mobile:**
+**Mobile**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -51,14 +52,14 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-**Game Development:**
+**Game Development**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-**Ethical Hacking / Xavfsizlik:**
+**Security &amp; Ethical Hacking**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -68,20 +69,20 @@
 
 ---
 
-### 📊 GitHub Statistika
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clay-cs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clay-cs&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clay-cs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clay-cs&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clay-cs&theme=radical" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=clay-cs&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Ijtimoiy tarmoqlar
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://t.me/USERNAME" target="_blank">
@@ -98,5 +99,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=clay-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
