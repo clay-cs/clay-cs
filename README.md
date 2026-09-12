@@ -21,29 +21,29 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-> 🔐 **Ethical Hacker** & **Full Stack Developer** passionate about security research, penetration testing, and building robust, scalable software across web, mobile, and game platforms. Always exploring new technologies and open to collaboration.
+>  **Ethical Hacker** & **Full Stack Developer** passionate about security research, penetration testing, and building robust, scalable software across web, mobile, and game platforms. Always exploring new technologies and open to collaboration.
 
-- 🔐 **Ethical Hacker** — security research and penetration testing
-- 🖥️ **Backend Developer** — building robust, scalable server-side systems
-- 🎨 **Frontend Developer** — crafting modern, responsive user interfaces
-- 📱 **Mobile Developer** — developing cross-platform mobile applications
-- 🎮 **Unity / C# Developer** — creating interactive games and experiences
-- 🌱 Continuously exploring new technologies and expanding my skill set
-- 💬 Always open to collaboration — feel free to reach out!
+-  **Ethical Hacker** — security research and penetration testing
+-  **Backend Developer** — building robust, scalable server-side systems
+-  **Frontend Developer** — crafting modern, responsive user interfaces
+-  **Mobile Developer** — developing cross-platform mobile applications
+-  **Unity / C# Developer** — creating interactive games and experiences
+-  Continuously exploring new technologies and expanding my skill set
+-  Always open to collaboration — feel free to reach out!
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### ⚙️ Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🎨 Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
@@ -53,22 +53,22 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-### 📱 Mobile
+###  Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### 🎮 Game Development
+###  Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🔐 Security & Ethical Hacking
+###  Security & Ethical Hacking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### 🔧 Tools
+###  Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -76,7 +76,7 @@
 </div>
 
 <details>
-<summary><b>📘 Core Concepts & Practices</b></summary>
+<summary><b> Core Concepts & Practices</b></summary>
 <br>
 
 | Category | Skills |
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -109,12 +109,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clay-cs&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=FF6B35&area_color=2E9EF7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-</div>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
@@ -126,7 +120,7 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -144,7 +138,7 @@
 
 <br/><br/>
 
-> 💬 *"Feel free to reach out for collaborations, opportunities, or just a tech conversation!"*
+>  *"Feel free to reach out for collaborations, opportunities, or just a tech conversation!"*
 
 </div>
 
